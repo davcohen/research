@@ -4,7 +4,7 @@ title: "Anatomy of a Deception: Uncovering the 'omnicogg' Dropper in ClawHub"
 date: "March 6, 2026"
 description: "David Cohen, JFrog Security Researcher"
 tag: "Real Time Post"
-img: /img/RealTimePostImage/post/malicious-skill-omnicogg/article-img.png
+img: /img/RealTimePostImage/post/malicious-skill-omnicogg/article-img.jpg
 type: realTimePost
 minutes: '5'
 ---
